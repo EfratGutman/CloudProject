@@ -8,7 +8,7 @@ Then, write the following commands:
 *npm init*
 *node app.js*
 Great!Now you get an available port
-Open your Google and write the following URL:*"http://localhost:*the port you get*"* 
+Open your Google and write the following URL:*"http://localhost:* the port you get*"* 
 For example:http://localhost:3000
 
 **Now you got the wen.Have fun!**
