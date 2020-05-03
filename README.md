@@ -1,2 +1,3 @@
-*This is medical project*
+**To run the project:**
+
  
