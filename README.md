@@ -11,7 +11,7 @@ Great!Now you get an available port
 Open your Google and write the following URL:*"http://localhost:* the port you get*"* 
 For example:http://localhost:3000
 
-**Now you got the wen.Have fun!**
+**Now you got the web.Have fun!**
 
 
 
