@@ -1,10 +1,10 @@
 **To run the project:**
 
-After Downloading the project,
+After downloading the project,
 
-Open the cmd and cd to the project-by its path.
+Open the cmd and cd to the project by its path.
 
-Then, write the following commands:
+Then write the following commands:
 
 *npm install express --save*
 
@@ -16,9 +16,9 @@ Then, write the following commands:
 
 *node app.js*
 
-Great!Now you get an available port
+Now a port is available 
 
-Open your Google and write the following URL:*"http://localhost: the port you get*" 
+Open Google and write the following URL:*"http://localhost: the port you get*" 
 *For example:http://localhost:3000*
 
 
